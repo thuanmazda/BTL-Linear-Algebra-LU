@@ -40,3 +40,13 @@ Mở file `LU_decomposition.m` trong thư mục `src/` bằng MATLAB và ấn **
 A = input('Nhap ma tran A = ');
 % Nhập ma trận kết quả B
 B = input('Nhap ma tran ket qua B: ');
+```
+
+
+### 📄 Tài liệu báo cáo:
+Chi tiết về cơ sở lý thuyết, các ví dụ tính toán thủ công và lưu đồ thuật toán có thể xem trực tiếp tại file báo cáo chi tiết: Báo cáo Bài tập lớn - Nhóm 12.
+
+
+***(Lưu ý: Tài liệu được tải lên nhằm mục đích lưu trữ, mọi việc sử dụng dưới mục đích ngoài tham khảo đều là vi phạm.)***
+
+
